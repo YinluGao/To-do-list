@@ -1,0 +1,14 @@
+body {
+  background-color: #7fe9de;
+}
+
+h1 {
+  position: absolute;
+  top: 15%;
+  left: 40%;
+}
+.container {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
